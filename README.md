@@ -2,6 +2,22 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/james-beall-20a4892/)
 
+### Code
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
+[![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)](https://ra1nbow.xyz?ref=github)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)](https://ra1nbow.xyz?ref=github)
+[![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)](https://ra1nbow.xyz?ref=github)
+
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)](https://ra1nbow.xyz?ref=github)
+[![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)](https://ra1nbow.xyz?ref=github)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://ra1nbow.xyz?ref=github)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)](https://ra1nbow.xyz?ref=github)
+
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)](https://ra1nbow.xyz?ref=github)
+[![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=blue)](https://ra1nbow.xyz?ref=github)
+[![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)](https://ra1nbow.xyz?ref=github)
+
 ### Professional Certifications
 
 [Data Science/Analytics/Visualization Professional Certificate](https://www.credly.com/badges/9cde6dae-236e-43eb-a25e-2a19af64effa/linked_in_profile) - SMU
