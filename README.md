@@ -2,9 +2,11 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/james-beall-20a4892/)
 
-### Certificates and Licenses
+### Professional Certifications
 
 [Data Science/Analytics/Visualization Professional Certificate](https://www.credly.com/badges/9cde6dae-236e-43eb-a25e-2a19af64effa/linked_in_profile) - SMU
+
+[Google Advanced Data Analytics](https://coursera.org/share/ad8b11db826119b0c588b6d2c34e353f) - Coursera
 
 [Google Data Analytics Professional Certificate](https://coursera.org/share/20709e8f96704c578e4e5587d868bc08) - Coursera
 
@@ -16,11 +18,11 @@
 
 [Harvard CS50P Introduction to Programming with Python](https://cs50.harvard.edu/certificates/52963fc2-e98f-43bd-8691-c4f2e2d9f654) - Harvard edX
 
+[Linux Foundation Certified System Administrator (LFCS)](https://www.udemy.com/certificate/UC-83178a22-f099-4b05-ac08-1f8e69e00930/) - Udemy
+
 [Certified Kubernetes Administrator (CKA)](https://www.udemy.com/certificate/UC-75e5dcfa-c365-46f8-91ec-be809d4122ef/) - Udemy
 
 [Certified Kubernetes Application Developer (CKAD)](https://www.udemy.com/certificate/UC-4292ba70-ffea-4d09-8a98-9e7e10f6c49d/) - Udemy
-
-[Linux Foundation Certified System Administrator (LFCS)](https://www.udemy.com/certificate/UC-83178a22-f099-4b05-ac08-1f8e69e00930/) - Udemy
 
 CompTIA Security+
 
