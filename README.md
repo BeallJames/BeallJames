@@ -1,8 +1,8 @@
-### Data Science and Business Analytics
+## Data Science and Business Analytics
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/james-beall-20a4892/)
 
-## Certificates and Licenses
+### Certificates and Licenses
 
 [Data Science/Analytics/Visualization Professional Certificate](https://www.credly.com/badges/9cde6dae-236e-43eb-a25e-2a19af64effa/linked_in_profile) - SMU
 
