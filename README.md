@@ -1,8 +1,7 @@
 ### Hi there
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
 
-![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/james-beall-20a4892/)
 
 <!--
 **BeallJames/BeallJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
