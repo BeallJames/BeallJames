@@ -13,6 +13,8 @@
 [![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)](https://ra1nbow.xyz?ref=github)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://ra1nbow.xyz?ref=github)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)](https://ra1nbow.xyz?ref=github)
+[![JAX](https://img.shields.io/badge/-JAX-000?&logo=JAX)](https://ra1nbow.xyz?ref=github)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-000?&logo=XGBoost)](https://ra1nbow.xyz?ref=github)
 
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)](https://ra1nbow.xyz?ref=github)
 [![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=blue)](https://ra1nbow.xyz?ref=github)
