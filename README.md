@@ -20,25 +20,25 @@
 
 ### Professional Certifications
 
-[Data Science/Analytics/Visualization Professional Certificate](https://www.credly.com/badges/9cde6dae-236e-43eb-a25e-2a19af64effa/linked_in_profile) - SMU
+[Data Science/Analytics/Visualization Professional Certificate](https://www.credly.com/badges/9cde6dae-236e-43eb-a25e-2a19af64effa/linked_in_profile)
 
-[Google Advanced Data Analytics](https://coursera.org/share/ad8b11db826119b0c588b6d2c34e353f) - Coursera
+[Google Advanced Data Analytics](https://coursera.org/share/ad8b11db826119b0c588b6d2c34e353f)
 
-[Google Data Analytics Professional Certificate](https://coursera.org/share/20709e8f96704c578e4e5587d868bc08) - Coursera
+[Google Data Analytics Professional Certificate](https://coursera.org/share/20709e8f96704c578e4e5587d868bc08)
 
-[Google IT Automation with Python](https://coursera.org/share/f8fac3f3a9aa279804ad0343fca5434c) - Coursera
+[Google IT Automation with Python](https://coursera.org/share/f8fac3f3a9aa279804ad0343fca5434c)
 
-[DeepLearning.AI TensorFlow Developer](https://coursera.org/share/51162cd38af682822059589eee102675) - DeepLearning.AI Coursera
+[DeepLearning.AI TensorFlow Developer](https://coursera.org/share/51162cd38af682822059589eee102675)
 
-[Harvard CS50AI Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/83fa4ba7-9b36-4b98-8e52-e0ea1de3b019) - Harvard edX
+[Harvard CS50AI Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/83fa4ba7-9b36-4b98-8e52-e0ea1de3b019)
 
-[Harvard CS50P Introduction to Programming with Python](https://cs50.harvard.edu/certificates/52963fc2-e98f-43bd-8691-c4f2e2d9f654) - Harvard edX
+[Harvard CS50P Introduction to Programming with Python](https://cs50.harvard.edu/certificates/52963fc2-e98f-43bd-8691-c4f2e2d9f654)
 
-[Linux Foundation Certified System Administrator (LFCS)](https://www.udemy.com/certificate/UC-83178a22-f099-4b05-ac08-1f8e69e00930/) - Udemy
+[Linux Foundation Certified System Administrator (LFCS)](https://www.udemy.com/certificate/UC-83178a22-f099-4b05-ac08-1f8e69e00930/)
 
-[Certified Kubernetes Administrator (CKA)](https://www.udemy.com/certificate/UC-75e5dcfa-c365-46f8-91ec-be809d4122ef/) - Udemy
+[Certified Kubernetes Administrator (CKA)](https://www.udemy.com/certificate/UC-75e5dcfa-c365-46f8-91ec-be809d4122ef/)
 
-[Certified Kubernetes Application Developer (CKAD)](https://www.udemy.com/certificate/UC-4292ba70-ffea-4d09-8a98-9e7e10f6c49d/) - Udemy
+[Certified Kubernetes Application Developer (CKAD)](https://www.udemy.com/certificate/UC-4292ba70-ffea-4d09-8a98-9e7e10f6c49d/)
 
 CompTIA Security+
 
